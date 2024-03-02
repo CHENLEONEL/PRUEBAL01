@@ -1,0 +1,3 @@
+C:/Users/chenl/Documents/UMG/PROGRAMACION/pruebauno/uno/cmake-build-debug/CMakeFiles/uno.dir
+C:/Users/chenl/Documents/UMG/PROGRAMACION/pruebauno/uno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chenl/Documents/UMG/PROGRAMACION/pruebauno/uno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
